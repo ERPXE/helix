@@ -1,0 +1,5 @@
+.:
+filelist.txt
+helix.menu
+initrd.gz
+vmlinuz
